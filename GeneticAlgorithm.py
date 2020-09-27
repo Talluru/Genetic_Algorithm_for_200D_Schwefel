@@ -1,6 +1,5 @@
 #the intial framework for a real-valued GA
-#author: Charles Nicholson
-#for ISE/DSA 5113
+#authors: Gowtham Talluru, Charles Nicholson
 
 #need some python libraries
 import copy
